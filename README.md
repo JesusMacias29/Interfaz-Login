@@ -51,7 +51,7 @@ Edición y ayuda: setEditable(), setToolTipText()
 📄 Documento PDF
 
 Puedes ver el informe completo con capturas y explicaciones aquí:
-👉 Descargar PDF de la práctica -> 
+👉 Descargar PDF de la práctica -> https://github.com/JesusMacias29/Interfaz-Login/blob/main/Tarea%20de%20Dise%C3%B1o_%20Interfaz%20de%20Login%20en%20IntelliJ.pdf
 
 ✅ Conclusión
 
